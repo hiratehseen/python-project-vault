@@ -1,7 +1,7 @@
 # Python Project Vault
 
 Python Project Vault is a collection of various Python projects, scripts, and code snippets that can be useful for developers and learners. This repository aims to provide a wide range of examples and use cases, making it a valuable resource for those looking to improve their Python skills or find inspiration for their own projects.
-
+![alt text](ML.png)
 ## Table of Contents
 
 - [Getting Started](#getting-started)
