@@ -36,7 +36,7 @@ cd python-project-vault/<project-name>
 
 This section provides a brief overview of the projects included in Python Project Vault. For more details, please refer to the README.md file in the respective project folders.
 
-- **Project 1**: A short description of Project 1.
+- **Breast Cancer**: A short description of Project 1.
 - **Project 2**: A short description of Project 2.
 - ...
 
