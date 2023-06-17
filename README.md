@@ -38,8 +38,9 @@ cd python-project-vault/<project-name>
 
 This section provides a brief overview of the projects included in Python Project Vault. For more details, please refer to the README.md file in the respective project folders.
 
-- **Breast Cancer**: A short description of Project 1.
-- **Water Quality**: Utilizing Python and PyCaret, this project analyzes water quality factors and builds a classification model to predict water potability.
+- **Breast Cancer**: "A short description of Project 1."
+- **Water Quality**: "Utilizing Python and PyCaret, this project analyzes water quality factors and builds a classification model to predict water potability."
+- **Apple Stock Forecast**: "An analysis of historical stock prices and application of ARIMA model to predict future trends."
 - ...
 
 ## Contributing
