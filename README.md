@@ -42,6 +42,7 @@ This section provides a brief overview of the projects included in Python Projec
 - **Water Quality**: "Utilizing Python and PyCaret, this project analyzes water quality factors and builds a classification model to predict water potability."
 - **Apple Stock Forecast**: "An analysis of historical stock prices and application of ARIMA model to predict future trends."
 - **NER**: "Implement a BiLSTM-LSTM model for Named Entity Recognition (NER) using TensorFlow to extract structured information from unstructured text data."
+- **Human Activity Recognition**:The project performs data loading, preprocessing, visualization, and building a K-nearest neighbors model for human activity recognition using accelerometer and gyroscope readings.
 - ...
 
 ## Contributing
