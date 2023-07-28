@@ -44,6 +44,7 @@ This section provides a brief overview of the projects included in Python Projec
 - **NER**: "Implement a BiLSTM-LSTM model for Named Entity Recognition (NER) using TensorFlow to extract structured information from unstructured text data."
 - **Human Activity Recognition**:The project performs data loading, preprocessing, visualization, and building a K-nearest neighbors model for human activity recognition using accelerometer and gyroscope readings.
 - **Dimond Price**: This project aims to predict diamond prices using machine learning models based on various diamond attributes.
+- **Human Activity**: This project aims to recognize human activities using machine learning models trained on sensor data from smartphones.
 - ...
 
 ## Contributing
